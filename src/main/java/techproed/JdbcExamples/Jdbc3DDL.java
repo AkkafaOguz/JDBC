@@ -60,6 +60,9 @@ public class Jdbc3DDL {
 //		
 //		System.out.println("Column olusturuldu");
 		
+		
+		//ORNEK4: Isciler tablosundaki maas stununu siliniz.
+		
 //		st.execute("ALTER TABLE isciler DROP COLUMN maas");
 //		
 //		System.out.println("Maas stunu silindi");
